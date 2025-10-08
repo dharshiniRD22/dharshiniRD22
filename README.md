@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React.js**
 
+- 👨‍💻 I'm currently doing internship at **The Hindu**
+
 - 👨‍💻 All of my projects are available at [https://helpful-taiyaki-d60ccb.netlify.app/](https://helpful-taiyaki-d60ccb.netlify.app/)
 
 - 📫 How to reach me **rdharshini.sbscvv@gmail.com**
